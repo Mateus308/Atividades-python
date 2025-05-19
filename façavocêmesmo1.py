@@ -1,0 +1,5 @@
+consumo = int(input("Digite a quantidade de Km: "))
+consumo = int(input("Digite a quantidade de Litros: "))
+print("Digite a quantidade de Km pecorrido: ")
+print("Digite a quantidade de Litros consumidos: ")
+("consumo = Km/Litros: ")
